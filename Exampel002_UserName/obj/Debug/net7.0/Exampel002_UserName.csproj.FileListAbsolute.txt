@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel002_UserName\bin\Debug\net7.0\Exampel002_UserName.exe
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel002_UserName\bin\Debug\net7.0\Exampel002_UserName.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel002_UserName\bin\Debug\net7.0\Exampel002_UserName.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel002_UserName\bin\Debug\net7.0\Exampel002_UserName.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel002_UserName\bin\Debug\net7.0\Exampel002_UserName.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel002_UserName\obj\Debug\net7.0\Exampel002_UserName.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel002_UserName\obj\Debug\net7.0\Exampel002_UserName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel002_UserName\obj\Debug\net7.0\Exampel002_UserName.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel002_UserName\obj\Debug\net7.0\Exampel002_UserName.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel002_UserName\obj\Debug\net7.0\Exampel002_UserName.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel002_UserName\obj\Debug\net7.0\Exampel002_UserName.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel002_UserName\obj\Debug\net7.0\refint\Exampel002_UserName.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel002_UserName\obj\Debug\net7.0\Exampel002_UserName.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel002_UserName\obj\Debug\net7.0\Exampel002_UserName.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel002_UserName\obj\Debug\net7.0\ref\Exampel002_UserName.dll
