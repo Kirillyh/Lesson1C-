@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel003_SumCisel\bin\Debug\net7.0\Exampel003_SumCisel.exe
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel003_SumCisel\bin\Debug\net7.0\Exampel003_SumCisel.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel003_SumCisel\bin\Debug\net7.0\Exampel003_SumCisel.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel003_SumCisel\bin\Debug\net7.0\Exampel003_SumCisel.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel003_SumCisel\bin\Debug\net7.0\Exampel003_SumCisel.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel003_SumCisel\obj\Debug\net7.0\Exampel003_SumCisel.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel003_SumCisel\obj\Debug\net7.0\Exampel003_SumCisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel003_SumCisel\obj\Debug\net7.0\Exampel003_SumCisel.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel003_SumCisel\obj\Debug\net7.0\Exampel003_SumCisel.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel003_SumCisel\obj\Debug\net7.0\Exampel003_SumCisel.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel003_SumCisel\obj\Debug\net7.0\Exampel003_SumCisel.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel003_SumCisel\obj\Debug\net7.0\refint\Exampel003_SumCisel.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel003_SumCisel\obj\Debug\net7.0\Exampel003_SumCisel.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel003_SumCisel\obj\Debug\net7.0\Exampel003_SumCisel.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel003_SumCisel\obj\Debug\net7.0\ref\Exampel003_SumCisel.dll
