@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example006_ZadahGiri\obj\Debug\net7.0\Example006_ZadahGiri.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example006_ZadahGiri\obj\Debug\net7.0\Example006_ZadahGiri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example006_ZadahGiri\obj\Debug\net7.0\Example006_ZadahGiri.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example006_ZadahGiri\obj\Debug\net7.0\Example006_ZadahGiri.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example006_ZadahGiri\obj\Debug\net7.0\Example006_ZadahGiri.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example006_ZadahGiri\bin\Debug\net7.0\Example006_ZadahGiri.exe
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example006_ZadahGiri\bin\Debug\net7.0\Example006_ZadahGiri.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example006_ZadahGiri\bin\Debug\net7.0\Example006_ZadahGiri.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example006_ZadahGiri\bin\Debug\net7.0\Example006_ZadahGiri.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example006_ZadahGiri\bin\Debug\net7.0\Example006_ZadahGiri.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example006_ZadahGiri\obj\Debug\net7.0\Example006_ZadahGiri.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example006_ZadahGiri\obj\Debug\net7.0\refint\Example006_ZadahGiri.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example006_ZadahGiri\obj\Debug\net7.0\Example006_ZadahGiri.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example006_ZadahGiri\obj\Debug\net7.0\Example006_ZadahGiri.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example006_ZadahGiri\obj\Debug\net7.0\ref\Example006_ZadahGiri.dll
