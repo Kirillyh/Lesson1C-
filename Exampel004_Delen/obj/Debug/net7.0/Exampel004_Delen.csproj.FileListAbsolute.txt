@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel004_Delen\bin\Debug\net7.0\Exampel004_Delen.exe
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel004_Delen\bin\Debug\net7.0\Exampel004_Delen.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel004_Delen\bin\Debug\net7.0\Exampel004_Delen.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel004_Delen\bin\Debug\net7.0\Exampel004_Delen.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel004_Delen\bin\Debug\net7.0\Exampel004_Delen.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel004_Delen\obj\Debug\net7.0\Exampel004_Delen.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel004_Delen\obj\Debug\net7.0\Exampel004_Delen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel004_Delen\obj\Debug\net7.0\Exampel004_Delen.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel004_Delen\obj\Debug\net7.0\Exampel004_Delen.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel004_Delen\obj\Debug\net7.0\Exampel004_Delen.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel004_Delen\obj\Debug\net7.0\Exampel004_Delen.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel004_Delen\obj\Debug\net7.0\refint\Exampel004_Delen.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel004_Delen\obj\Debug\net7.0\Exampel004_Delen.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel004_Delen\obj\Debug\net7.0\Exampel004_Delen.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel004_Delen\obj\Debug\net7.0\ref\Exampel004_Delen.dll
