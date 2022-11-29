@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel001_HelloWorld\bin\Debug\net7.0\Exampel001_HelloWorld.exe
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel001_HelloWorld\bin\Debug\net7.0\Exampel001_HelloWorld.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel001_HelloWorld\bin\Debug\net7.0\Exampel001_HelloWorld.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel001_HelloWorld\bin\Debug\net7.0\Exampel001_HelloWorld.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel001_HelloWorld\bin\Debug\net7.0\Exampel001_HelloWorld.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel001_HelloWorld\obj\Debug\net7.0\Exampel001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel001_HelloWorld\obj\Debug\net7.0\Exampel001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel001_HelloWorld\obj\Debug\net7.0\Exampel001_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel001_HelloWorld\obj\Debug\net7.0\Exampel001_HelloWorld.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel001_HelloWorld\obj\Debug\net7.0\Exampel001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel001_HelloWorld\obj\Debug\net7.0\Exampel001_HelloWorld.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel001_HelloWorld\obj\Debug\net7.0\refint\Exampel001_HelloWorld.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel001_HelloWorld\obj\Debug\net7.0\Exampel001_HelloWorld.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel001_HelloWorld\obj\Debug\net7.0\Exampel001_HelloWorld.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel001_HelloWorld\obj\Debug\net7.0\ref\Exampel001_HelloWorld.dll
