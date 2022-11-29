@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel005_if\obj\Debug\net7.0\Exampel005_if.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel005_if\obj\Debug\net7.0\Exampel005_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel005_if\obj\Debug\net7.0\Exampel005_if.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel005_if\obj\Debug\net7.0\Exampel005_if.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel005_if\obj\Debug\net7.0\Exampel005_if.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel005_if\bin\Debug\net7.0\Exampel005_if.exe
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel005_if\bin\Debug\net7.0\Exampel005_if.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel005_if\bin\Debug\net7.0\Exampel005_if.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel005_if\bin\Debug\net7.0\Exampel005_if.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel005_if\bin\Debug\net7.0\Exampel005_if.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel005_if\obj\Debug\net7.0\Exampel005_if.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel005_if\obj\Debug\net7.0\refint\Exampel005_if.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel005_if\obj\Debug\net7.0\Exampel005_if.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel005_if\obj\Debug\net7.0\Exampel005_if.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Exampel005_if\obj\Debug\net7.0\ref\Exampel005_if.dll
