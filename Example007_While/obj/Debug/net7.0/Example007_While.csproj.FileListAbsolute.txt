@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example007_While\bin\Debug\net7.0\Example007_While.exe
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example007_While\bin\Debug\net7.0\Example007_While.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example007_While\bin\Debug\net7.0\Example007_While.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example007_While\bin\Debug\net7.0\Example007_While.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example007_While\bin\Debug\net7.0\Example007_While.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example007_While\obj\Debug\net7.0\Example007_While.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example007_While\obj\Debug\net7.0\Example007_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example007_While\obj\Debug\net7.0\Example007_While.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example007_While\obj\Debug\net7.0\Example007_While.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example007_While\obj\Debug\net7.0\Example007_While.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example007_While\obj\Debug\net7.0\Example007_While.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example007_While\obj\Debug\net7.0\refint\Example007_While.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example007_While\obj\Debug\net7.0\Example007_While.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example007_While\obj\Debug\net7.0\Example007_While.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Lesson1C#\Example007_While\obj\Debug\net7.0\ref\Example007_While.dll
